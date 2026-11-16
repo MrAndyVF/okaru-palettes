@@ -13,6 +13,13 @@ muestra en **Ajustes → Apariencia** (fuente «Comunidad»); al elegir una, des
 
 La GitHub Action comprueba que `catalog.json` esté al día y que cada paleta tenga los tokens obligatorios.
 
+## Paletas incluidas
+
+Escritas para OKARU a partir de los colores oficiales de cada tema (roles y modo claro propios cuando el
+original no tiene): Atom One, Ayu, Catppuccin (Mocha, Frappé, Macchiato; claro Latte), Dracula (claro
+Alucard), Eldritch, Everforest, GitHub (Primer), Gruvbox, Kanagawa (Wave/Lotus), Monokai, Nightfox (Dayfox),
+Nord, Rosé Pine (Dawn), Solarized y Tokyo Night (Night, Storm, Moon; claro Day).
+
 ## Licencia
 
 MIT. Al enviar un pull request aceptas publicar tu paleta bajo esta licencia; no subas trabajo de terceros

@@ -1,1 +1,382 @@
-[]
+[
+ {
+  "name": "Atom One",
+  "md5": "495ab8a11db11d20dd5144ba341e9389",
+  "dark": {
+   "primary": "#61afef",
+   "secondary": "#c678dd",
+   "tertiary": "#56b6c2",
+   "error": "#e06c75",
+   "surface": "#282c34",
+   "surfaceVariant": "#2c313c"
+  },
+  "light": {
+   "primary": "#4078f2",
+   "secondary": "#a626a4",
+   "tertiary": "#0184bc",
+   "error": "#e45649",
+   "surface": "#fafafa",
+   "surfaceVariant": "#e5e5e6"
+  }
+ },
+ {
+  "name": "Ayu",
+  "md5": "9d48f8e62a57e4d9173b1c6a633737cd",
+  "dark": {
+   "primary": "#e6b450",
+   "secondary": "#ff8f40",
+   "tertiary": "#39bae6",
+   "error": "#f07178",
+   "surface": "#0b0e14",
+   "surfaceVariant": "#131721"
+  },
+  "light": {
+   "primary": "#ffaa33",
+   "secondary": "#fa8d3e",
+   "tertiary": "#55b4d4",
+   "error": "#f07171",
+   "surface": "#fcfcfc",
+   "surfaceVariant": "#f3f4f5"
+  }
+ },
+ {
+  "name": "Catppuccin Frappé",
+  "md5": "d3c77105a4bc6c180c7d3cccb2d050b8",
+  "dark": {
+   "primary": "#ca9ee6",
+   "secondary": "#ef9f76",
+   "tertiary": "#81c8be",
+   "error": "#e78284",
+   "surface": "#303446",
+   "surfaceVariant": "#414559"
+  },
+  "light": {
+   "primary": "#8839ef",
+   "secondary": "#fe640b",
+   "tertiary": "#179299",
+   "error": "#d20f39",
+   "surface": "#eff1f5",
+   "surfaceVariant": "#ccd0da"
+  }
+ },
+ {
+  "name": "Catppuccin Macchiato",
+  "md5": "78b28cc7a53bf9d9eb83a3dfeb170aa9",
+  "dark": {
+   "primary": "#c6a0f6",
+   "secondary": "#f5a97f",
+   "tertiary": "#8bd5ca",
+   "error": "#ed8796",
+   "surface": "#24273a",
+   "surfaceVariant": "#363a4f"
+  },
+  "light": {
+   "primary": "#8839ef",
+   "secondary": "#fe640b",
+   "tertiary": "#179299",
+   "error": "#d20f39",
+   "surface": "#eff1f5",
+   "surfaceVariant": "#ccd0da"
+  }
+ },
+ {
+  "name": "Catppuccin",
+  "md5": "ff70bf5aad64bf9126cbcd6d2ab83811",
+  "dark": {
+   "primary": "#cba6f7",
+   "secondary": "#fab387",
+   "tertiary": "#94e2d5",
+   "error": "#f38ba8",
+   "surface": "#1e1e2e",
+   "surfaceVariant": "#313244"
+  },
+  "light": {
+   "primary": "#8839ef",
+   "secondary": "#fe640b",
+   "tertiary": "#179299",
+   "error": "#d20f39",
+   "surface": "#eff1f5",
+   "surfaceVariant": "#ccd0da"
+  }
+ },
+ {
+  "name": "Dracula",
+  "md5": "3e17a0e446eaebb82164e7346ded27e0",
+  "dark": {
+   "primary": "#bd93f9",
+   "secondary": "#ff79c6",
+   "tertiary": "#8be9fd",
+   "error": "#ff5555",
+   "surface": "#282a36",
+   "surfaceVariant": "#44475a"
+  },
+  "light": {
+   "primary": "#644ac9",
+   "secondary": "#a3144d",
+   "tertiary": "#036a96",
+   "error": "#cb3a2a",
+   "surface": "#fffbeb",
+   "surfaceVariant": "#efeddc"
+  }
+ },
+ {
+  "name": "Eldritch",
+  "md5": "790035227e0229500d43565b4c7c6a9a",
+  "dark": {
+   "primary": "#37f499",
+   "secondary": "#a48cf2",
+   "tertiary": "#04d1f9",
+   "error": "#f16c75",
+   "surface": "#212337",
+   "surfaceVariant": "#323449"
+  },
+  "light": {
+   "primary": "#0a8a5a",
+   "secondary": "#6a4fd8",
+   "tertiary": "#0083a8",
+   "error": "#d0303c",
+   "surface": "#f4f5fb",
+   "surfaceVariant": "#e3e5f2"
+  }
+ },
+ {
+  "name": "Everforest",
+  "md5": "b47b1c6cd3cabba5c6b1bb8c263f928d",
+  "dark": {
+   "primary": "#a7c080",
+   "secondary": "#e69875",
+   "tertiary": "#83c092",
+   "error": "#e67e80",
+   "surface": "#2d353b",
+   "surfaceVariant": "#3d484d"
+  },
+  "light": {
+   "primary": "#8da101",
+   "secondary": "#f57d26",
+   "tertiary": "#35a77c",
+   "error": "#f85552",
+   "surface": "#fdf6e3",
+   "surfaceVariant": "#efebd4"
+  }
+ },
+ {
+  "name": "GitHub",
+  "md5": "f02287366ca614f95339ca7c2af7137c",
+  "dark": {
+   "primary": "#58a6ff",
+   "secondary": "#a371f7",
+   "tertiary": "#3fb950",
+   "error": "#f85149",
+   "surface": "#0d1117",
+   "surfaceVariant": "#161b22"
+  },
+  "light": {
+   "primary": "#0969da",
+   "secondary": "#8250df",
+   "tertiary": "#1a7f37",
+   "error": "#d1242f",
+   "surface": "#ffffff",
+   "surfaceVariant": "#f6f8fa"
+  }
+ },
+ {
+  "name": "Gruvbox",
+  "md5": "a9bb037d4f79f6e8fa0199f4e525ffaf",
+  "dark": {
+   "primary": "#fabd2f",
+   "secondary": "#fe8019",
+   "tertiary": "#8ec07c",
+   "error": "#fb4934",
+   "surface": "#282828",
+   "surfaceVariant": "#3c3836"
+  },
+  "light": {
+   "primary": "#b57614",
+   "secondary": "#af3a03",
+   "tertiary": "#427b58",
+   "error": "#9d0006",
+   "surface": "#fbf1c7",
+   "surfaceVariant": "#ebdbb2"
+  }
+ },
+ {
+  "name": "Kanagawa",
+  "md5": "4f504cf56b75dc41c9a27e9061fda341",
+  "dark": {
+   "primary": "#7e9cd8",
+   "secondary": "#ffa066",
+   "tertiary": "#7aa89f",
+   "error": "#e46876",
+   "surface": "#1f1f28",
+   "surfaceVariant": "#2a2a37"
+  },
+  "light": {
+   "primary": "#4d699b",
+   "secondary": "#cc6d00",
+   "tertiary": "#597b75",
+   "error": "#c84053",
+   "surface": "#f2ecbc",
+   "surfaceVariant": "#e7dba0"
+  }
+ },
+ {
+  "name": "Monokai",
+  "md5": "e04cfbbedee9c0ca806c369e121d938b",
+  "dark": {
+   "primary": "#a6e22e",
+   "secondary": "#f92672",
+   "tertiary": "#66d9ef",
+   "error": "#f92672",
+   "surface": "#272822",
+   "surfaceVariant": "#3e3d32"
+  },
+  "light": {
+   "primary": "#5c8a00",
+   "secondary": "#d0174f",
+   "tertiary": "#007fa6",
+   "error": "#d0174f",
+   "surface": "#fafaf8",
+   "surfaceVariant": "#edece6"
+  }
+ },
+ {
+  "name": "Nightfox",
+  "md5": "0f5fe2287b5d423cdf4032f390cf1a79",
+  "dark": {
+   "primary": "#719cd6",
+   "secondary": "#f4a261",
+   "tertiary": "#63cdcf",
+   "error": "#c94f6d",
+   "surface": "#192330",
+   "surfaceVariant": "#212e3f"
+  },
+  "light": {
+   "primary": "#2848a9",
+   "secondary": "#955f61",
+   "tertiary": "#287980",
+   "error": "#a5222f",
+   "surface": "#f6f2ee",
+   "surfaceVariant": "#dbd1dd"
+  }
+ },
+ {
+  "name": "Nord",
+  "md5": "e80f02a3f8c3f7df7101f3aafc4f84a2",
+  "dark": {
+   "primary": "#88c0d0",
+   "secondary": "#b48ead",
+   "tertiary": "#8fbcbb",
+   "error": "#bf616a",
+   "surface": "#2e3440",
+   "surfaceVariant": "#3b4252"
+  },
+  "light": {
+   "primary": "#5e81ac",
+   "secondary": "#8f6a89",
+   "tertiary": "#4c8a89",
+   "error": "#bf616a",
+   "surface": "#eceff4",
+   "surfaceVariant": "#e5e9f0"
+  }
+ },
+ {
+  "name": "Rosé Pine",
+  "md5": "335ebbf162310719ef93417a9f3d48a8",
+  "dark": {
+   "primary": "#c4a7e7",
+   "secondary": "#ebbcba",
+   "tertiary": "#9ccfd8",
+   "error": "#eb6f92",
+   "surface": "#191724",
+   "surfaceVariant": "#26233a"
+  },
+  "light": {
+   "primary": "#907aa9",
+   "secondary": "#d7827e",
+   "tertiary": "#56949f",
+   "error": "#b4637a",
+   "surface": "#faf4ed",
+   "surfaceVariant": "#f2e9e1"
+  }
+ },
+ {
+  "name": "Solarized",
+  "md5": "3f01d159a6dee03313418466b624e9bc",
+  "dark": {
+   "primary": "#268bd2",
+   "secondary": "#b58900",
+   "tertiary": "#2aa198",
+   "error": "#dc322f",
+   "surface": "#002b36",
+   "surfaceVariant": "#073642"
+  },
+  "light": {
+   "primary": "#268bd2",
+   "secondary": "#b58900",
+   "tertiary": "#2aa198",
+   "error": "#dc322f",
+   "surface": "#fdf6e3",
+   "surfaceVariant": "#eee8d5"
+  }
+ },
+ {
+  "name": "Tokyo Night Moon",
+  "md5": "2f0f7a47a175398ca54d307fdab85686",
+  "dark": {
+   "primary": "#82aaff",
+   "secondary": "#c099ff",
+   "tertiary": "#4fd6be",
+   "error": "#ff757f",
+   "surface": "#222436",
+   "surfaceVariant": "#2f334d"
+  },
+  "light": {
+   "primary": "#2e7de9",
+   "secondary": "#9854f1",
+   "tertiary": "#387068",
+   "error": "#f52a65",
+   "surface": "#e1e2e7",
+   "surfaceVariant": "#c4c8da"
+  }
+ },
+ {
+  "name": "Tokyo Night Storm",
+  "md5": "1e5164e407be05f9ece9430aa647709e",
+  "dark": {
+   "primary": "#7aa2f7",
+   "secondary": "#bb9af7",
+   "tertiary": "#73daca",
+   "error": "#f7768e",
+   "surface": "#24283b",
+   "surfaceVariant": "#292e42"
+  },
+  "light": {
+   "primary": "#2e7de9",
+   "secondary": "#9854f1",
+   "tertiary": "#387068",
+   "error": "#f52a65",
+   "surface": "#e1e2e7",
+   "surfaceVariant": "#c4c8da"
+  }
+ },
+ {
+  "name": "Tokyo Night",
+  "md5": "b85efb862fc7abbd381ff4098c89c80c",
+  "dark": {
+   "primary": "#7aa2f7",
+   "secondary": "#bb9af7",
+   "tertiary": "#73daca",
+   "error": "#f7768e",
+   "surface": "#1a1b26",
+   "surfaceVariant": "#292e42"
+  },
+  "light": {
+   "primary": "#2e7de9",
+   "secondary": "#9854f1",
+   "tertiary": "#387068",
+   "error": "#f52a65",
+   "surface": "#e1e2e7",
+   "surfaceVariant": "#c4c8da"
+  }
+ }
+]
